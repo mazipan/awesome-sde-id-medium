@@ -13,18 +13,27 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini
-+ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad (*alphabet*)
++ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad (*alphabet*) dari namanya
++ Formatnya agar diseragamkan dengan yang lain, yakni: `NAMA_ASLI/SAPAAN: [medium_username](link_medium)`
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat...
 
 ## A
+
++ Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
++ Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
++ Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 
 ## B
 
 ## C
 
++ Cesario Putera: [@rioriorio54](https://medium.com/@rioriorio54)
+
 ## D
 
 ## E
+
++ Eka Prasasti: [@ekaprasasti](https://medium.com/@ekaprasasti)
 
 ## F
 
@@ -56,6 +65,8 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## S
 
++ Satya Kresna Adi Pratama: [@satyakresna](https://medium.com/@satyakresna)
+
 ## T
 
 ## U
@@ -68,7 +79,11 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## Y
 
++ Yohan Totting: [@tyohan](https://medium.com/@tyohan)
+
 ## Z
+
++ Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)
 
 ----
 

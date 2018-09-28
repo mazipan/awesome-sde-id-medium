@@ -19,6 +19,10 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## A
 
++ Ade Fruandta: [@adef145](https://medium.com/@adef145)
++ Ade Yahya Prasetyo: [@adeyahya](https://medium.com/@adeyahya)
++ Adhy Wiranata: [@adhywiranata](https://medium.com/@adhywiranata)
++ Afrimadoni Dinata [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
@@ -34,6 +38,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## E
 
 + Eka Prasasti: [@ekaprasasti](https://medium.com/@ekaprasasti)
++ Eko Kurniawan Khannedy: [@khannedy](https://medium.com/@khannedy)
 
 ## F
 
@@ -47,11 +52,18 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## J
 
++ Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
+
 ## K
 
 ## L
 
++ Luri Darmawan: [@luridarmawan](https://medium.com/@luridarmawan)
++ Lukluk Luhuring Santoso: [@luklukluhuringsantoso](https://medium.com/@luklukluhuringsantoso)
+
 ## M
+
++ Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
 
 ## N
 
@@ -59,15 +71,26 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## P
 
++ Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
+
 ## Q
 
 ## R
 
++ Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
++ R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
++ R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
+
 ## S
 
 + Satya Kresna Adi Pratama: [@satyakresna](https://medium.com/@satyakresna)
++ Sidiq Permana: [@sidiqpermana10](https://medium.com/@sidiqpermana10)
++ Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 
 ## T
+
++ Theresia Tanzil: [@theresiatanzil](https://medium.com/@theresiatanzil)
++ Trimikha Valentius: [@tvalentius](https://medium.com/@tvalentius)
 
 ## U
 

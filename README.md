@@ -64,6 +64,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## M
 
 + Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
++ Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 
 ## N
 

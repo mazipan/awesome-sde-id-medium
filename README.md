@@ -53,6 +53,8 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## J
 
 + Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
++ Jihad Dzikri Waspada: [@Dewey92](https://medium.com/@Dewey92)
+
 
 ## K
 
@@ -67,6 +69,8 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 
 ## N
+
++ Naufal Rabbani: [@BosNaufal](https://medium.com/@BosNaufal)
 
 ## O
 

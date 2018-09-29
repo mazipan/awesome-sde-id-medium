@@ -25,6 +25,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Afrimadoni Dinata [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
++ Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 
 ## B

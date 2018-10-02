@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abejide001/awesome-sde-id-medium.git"
+    "url": "git+https://github.com/mazipan/awesome-sde-id-medium.git"
   },
-  "author": "mazipan",
+  "author": "Irfan Maulana <https://github.com/mazipan>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abejide001/awesome-sde-id-medium/issues"
+    "url": "https://github.com/mazipan/awesome-sde-id-medium/issues"
   },
-  "homepage": "https://github.com/abejide001/awesome-sde-id-medium#readme",
+  "homepage": "https://github.com/mazipan/awesome-sde-id-medium#readme",
   "devDependencies": {
     "husky": "1.1.0"
   },

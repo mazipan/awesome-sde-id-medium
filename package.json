@@ -1,0 +1,19 @@
+{
+  "name": "awesome-sde-id-medium",
+  "version": "1.0.0",
+  "description": "List of cool Medium.com accounts from software engineering activists in Indonesia",
+  "main": "READMEtoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazipan/awesome-sde-id-medium.git"
+  },
+  "author": "Irfan Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazipan/awesome-sde-id-medium/issues"
+  },
+  "homepage": "https://github.com/mazipan/awesome-sde-id-medium#readme"
+}

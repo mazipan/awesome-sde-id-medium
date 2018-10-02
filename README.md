@@ -15,6 +15,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + PR ke branch master dari repo ini
 + Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad (*alphabet*) dari namanya
 + Formatnya agar diseragamkan dengan yang lain, yakni: `NAMA_ASLI/SAPAAN: [medium_username](link_medium)`
++ RUN `npm run generate` atau `yarn run generate` sebelum melakukan commit perubahan terbaru untuk men-*generate* file json.
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat...
 
 ## A

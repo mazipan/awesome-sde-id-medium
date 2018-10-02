@@ -1,0 +1,28 @@
+{
+  "name": "awesome-sde-id-medium",
+  "version": "1.0.0",
+  "description": "Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia",
+  "main": "READMEtoJSON.js",
+  "scripts": {
+    "generate": "node READMEtoJSON.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazipan/awesome-sde-id-medium.git"
+  },
+  "author": "Irfan Maulana <https://github.com/mazipan>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazipan/awesome-sde-id-medium/issues"
+  },
+  "homepage": "https://github.com/mazipan/awesome-sde-id-medium#readme",
+  "devDependencies": {
+    "husky": "1.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run generate"
+    }
+  }
+}

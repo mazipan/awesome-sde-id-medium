@@ -19,41 +19,54 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## A
 
++ Achmad Fatoni: [@achmadfatoni](https://medium.com/@achmadfatoni)
 + Ade Fruandta: [@adef145](https://medium.com/@adef145)
 + Ade Yahya Prasetyo: [@adeyahya](https://medium.com/@adeyahya)
 + Adhy Wiranata: [@adhywiranata](https://medium.com/@adhywiranata)
 + Adi Nugroho: [@adinugroho](https://medium.com/@adinugroho)
 + Afrimadoni Dinata [@afrimadonidinata](https://medium.com/@afrimadonidinata)
++ Agastya Darma Laksana [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
++ Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
 + Akbar Hidayat: [@keripix](https://medium.com/@keripix)
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
++ Alif Rizky: [@alfrizp](https://medium.com/@alfrizp)
 + Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 + Arif Akbarul Huda: [@omayib](https://medium.com/@omayib)
++ Arif Setiyawan: [@arifsetyawan](https://medium.com/@arifsetyawan)
 
 ## B
++ Bobby Priambodo: [@bobbypriambodo](https://medium.com/@bobbypriambodo)
 
 ## C
 
 + Cesario Putera: [@rioriorio54](https://medium.com/@rioriorio54)
 
 ## D
++ Dian Aditya: [@dianw](https://medium.com/@dianw)
++ Didik Tri Susanto: [@didikz](https://medium.com/@didikz)
 
 ## E
 
 + Eka Prasasti: [@ekaprasasti](https://medium.com/@ekaprasasti)
 + Eko Kurniawan Khannedy: [@khannedy](https://medium.com/@khannedy)
++ Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 
 ## F
++ Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 
 ## G
++ Gita Citra Puspita: [@gitacitrapuspita](https://medium.com/@gitacitrapuspita)
 
 ## H
++ Hafid Mukhlasin: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)
 + Haidar Afif Maulana: [@haidarafifmaulana](https://medium.com/@haidarafifmaulana)
 
 ## I
 
++ Iman Tumorang: [@imantumorang](https://medium.com/@imantumorang)
 + Irfan Maulana: [@mazipanneh](https://medium.com/@mazipanneh)
 
 ## J
@@ -72,19 +85,24 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## M
 
++ M Nafian Wildana: [@mnafian](https://medium.com/@mnafian)
 + Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
 + Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 + Muhammad Ridho K Pratama: [@99ridho](https://medium.com/@99ridho)
++ Musliadi: [@musliadi](https://medium.com/@musliadi)
 
 ## N
 
 + Naufal Rabbani: [@BosNaufal](https://medium.com/@BosNaufal)
++ Nur Rohman: [@nurrohman](https://medium.com/@nurrohman)
 
 ## O
++ Ofani Dariyan: [@ofanidariyan](https://medium.com/@ofanidariyan)
 
 ## P
 
 + Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
++ Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
 
 ## Q
 
@@ -105,10 +123,12 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Sidiq Permana: [@sidiqpermana10](https://medium.com/@sidiqpermana10)
 + Sofian Hadiwijaya: [@sofianhw](https://medium.com/@sofianhw)
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
++ Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
 
 ## T
 
 + Theresia Tanzil: [@theresiatanzil](https://medium.com/@theresiatanzil)
++ Tri Ahmad Irfan: [@irfan3](https://medium.com/@irfan3)
 + Trimikha Valentius: [@tvalentius](https://medium.com/@tvalentius)
 
 ## U
@@ -116,6 +136,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## V
 
 ## W
++ Welly Tambunan: [@wellytambunan](https://medium.com/@wellytambunan)
 
 ## X
 + Wahyudi Wibowo: [@wahyudibo](https://medium.com/@wahyudibo)
@@ -123,6 +144,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## Y
 
 + Yohan Totting: [@tyohan](https://medium.com/@tyohan)
++ Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
 
 ## Z
 

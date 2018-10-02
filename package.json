@@ -4,7 +4,7 @@
   "description": "Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia",
   "main": "READMEtoJSON.js",
   "scripts": {
-    "READMEtoJSON": "node READMEtoJSON.js",
+    "generate": "node READMEtoJSON.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,7 +22,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run READMEtoJSON"
+      "pre-commit": "npm run generate"
     }
   }
 }

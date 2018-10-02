@@ -1,0 +1,28 @@
+{
+  "name": "awesome-sde-id-medium",
+  "version": "1.0.0",
+  "description": "Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia",
+  "main": "READMEtoJSON.js",
+  "scripts": {
+    "READMEtoJSON": "node READMEtoJSON.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abejide001/awesome-sde-id-medium.git"
+  },
+  "author": "mazipan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abejide001/awesome-sde-id-medium/issues"
+  },
+  "homepage": "https://github.com/abejide001/awesome-sde-id-medium#readme",
+  "devDependencies": {
+    "husky": "1.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run READMEtoJSON"
+    }
+  }
+}

@@ -134,6 +134,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
 + Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
++ Sucipto: [@showcheap](https://medium.com/@showcheap)
 
 ## T
 
@@ -155,6 +156,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Yohan Totting: [@tyohan](https://medium.com/@tyohan)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
++ Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 
 ## Z
 

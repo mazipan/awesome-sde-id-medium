@@ -95,7 +95,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 - M Nafian Wildana: [@mnafian](https://medium.com/@mnafian)
 - Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
-- Mohammad Robih TX: [@biobii](https://medium.com/@biobii)
+- Mohammad Robih TZ: [@biobii](https://medium.com/@biobii)
 - Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 - Muhammad Ridho K Pratama: [@99ridho](https://medium.com/@99ridho)
 - Musliadi: [@musliadi](https://medium.com/@musliadi)

@@ -32,6 +32,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
 + Akbar Hidayat: [@keripix](https://medium.com/@keripix)
++ Akmal Maulana Azzam: [@rehre](https://medium.com/@rehre)
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
 + Alif Rizky: [@alfrizp](https://medium.com/@alfrizp)
 + Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)

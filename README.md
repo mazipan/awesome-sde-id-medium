@@ -140,6 +140,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Trimikha Valentius: [@tvalentius](https://medium.com/@tvalentius)
 
 ## U
++ Prosper Otemuyiwa: [@unicodeveloper](https://medium.com/@unicodeveloper)
 
 ## V
 

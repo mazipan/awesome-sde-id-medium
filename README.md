@@ -64,6 +64,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## G
 + Gita Citra Puspita: [@gitacitrapuspita](https://medium.com/@gitacitrapuspita)
++ Gdplabs: [@gdplabs](https://medium.com/gdplabs)
 
 ## H
 + Hafid Mukhlasin: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)

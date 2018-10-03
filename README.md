@@ -37,6 +37,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 + Arif Akbarul Huda: [@omayib](https://medium.com/@omayib)
 + Arif Setiyawan: [@arifsetyawan](https://medium.com/@arifsetyawan)
++ Arryangga Aliev Pratamaputra: [@arryanggaputra](https://medium.com/@arryanggaputra)
 
 ## B
 + Bobby Priambodo: [@bobbypriambodo](https://medium.com/@bobbypriambodo)
@@ -103,6 +104,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## P
 
 + Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
++ Prabu Rangki: [@praburangki](https://medium.com/@praburangki)
 + Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
 
 ## Q

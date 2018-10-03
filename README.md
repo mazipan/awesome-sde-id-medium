@@ -29,8 +29,8 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Ade Yahya Prasetyo: [@adeyahya](https://medium.com/@adeyahya)
 + Adhy Wiranata: [@adhywiranata](https://medium.com/@adhywiranata)
 + Adi Nugroho: [@adinugroho](https://medium.com/@adinugroho)
-+ Afrimadoni Dinata [@afrimadonidinata](https://medium.com/@afrimadonidinata)
-+ Agastya Darma Laksana [@agastyadarma](https://medium.com/@agastyadarma)
++ Afrimadoni Dinata: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
++ Agastya Darma Laksana: [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
@@ -61,6 +61,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 
 ## F
++ Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 
 ## G

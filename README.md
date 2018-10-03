@@ -127,6 +127,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Sofian Hadiwijaya: [@sofianhw](https://medium.com/@sofianhw)
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
++ Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
 
 ## T
 

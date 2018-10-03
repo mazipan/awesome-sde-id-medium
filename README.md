@@ -97,6 +97,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Naufal Rabbani: [@BosNaufal](https://medium.com/@BosNaufal)
 + Nur Rohman: [@nurrohman](https://medium.com/@nurrohman)
++ Nur Shalahuddin Fajri: [@shotozuro](https://medium.com/@shotozuro)
 
 ## O
 + Ofani Dariyan: [@ofanidariyan](https://medium.com/@ofanidariyan)

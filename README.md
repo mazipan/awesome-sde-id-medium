@@ -25,7 +25,6 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Ade Yahya Prasetyo: [@adeyahya](https://medium.com/@adeyahya)
 + Adhy Wiranata: [@adhywiranata](https://medium.com/@adhywiranata)
 + Adi Nugroho: [@adinugroho](https://medium.com/@adinugroho)
-+ Afrijal Dzuhri: [@afrijaldz](https://medium.com/@afrijaldz)
 + Afrimadoni Dinata: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 + Agastya Darma Laksana: [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)

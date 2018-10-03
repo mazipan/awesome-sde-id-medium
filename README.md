@@ -75,7 +75,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 + Jihad Dzikri Waspada: [@Dewey92](https://medium.com/@Dewey92)
-
++ Joshua Partogi: [@jpartogi](https://medium.com/@jpartogi)
 
 ## K
 
@@ -128,6 +128,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
 + Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
++ Sucipto: [@showcheap](https://medium.com/@showcheap)
 
 ## T
 
@@ -149,6 +150,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Yohan Totting: [@tyohan](https://medium.com/@tyohan)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
++ Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 
 ## Z
 

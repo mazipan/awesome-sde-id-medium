@@ -75,7 +75,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 + Jihad Dzikri Waspada: [@Dewey92](https://medium.com/@Dewey92)
-+ Joshua Partogi: [@jpartogi](https://medium.com/@jpartogi)
+
 
 ## K
 

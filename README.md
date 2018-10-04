@@ -119,6 +119,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Rahmat Awaludin: [@rahmatawaludin](https://medium.com/@rahmatawaludin)
 + Reno Putra Prawira: [@renopp](https://medium.com/@renopp)
++ Rendy Febry: [@rendyfebry](https://medium.com/rendyfebry)
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)

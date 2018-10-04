@@ -25,11 +25,6 @@
     "link": "https://medium.com/@adinugroho"
   },
   {
-    "fullname": "Afrijal Dzuhri",
-    "username": "afrijaldz",
-    "link": "https://medium.com/@afrijaldz"
-  },
-  {
     "fullname": "Afrimadoni Dinata",
     "username": "afrimadonidinata",
     "link": "https://medium.com/@afrimadonidinata"
@@ -173,11 +168,6 @@
     "fullname": "Jihad Dzikri Waspada",
     "username": "Dewey92",
     "link": "https://medium.com/@Dewey92"
-  },
-  {
-    "fullname": "Joshua Partogi",
-    "username": "jpartogi",
-    "link": "https://medium.com/@jpartogi"
   },
   {
     "fullname": "Luri Darmawan",
@@ -325,14 +315,11 @@
     "link": "https://medium.com/@safeimuslim"
   },
   {
-
     "fullname": "Sucipto",
     "username": "showcheap",
     "link": "https://medium.com/@showcheap"
   },
   {
-
-
     "fullname": "Theresia Tanzil",
     "username": "theresiatanzil",
     "link": "https://medium.com/@theresiatanzil"
@@ -376,5 +363,10 @@
     "fullname": "Zain Fathoni",
     "username": "zain.fathoni",
     "link": "https://medium.com/@zain.fathoni"
+  },
+  {
+    "fullname": "Zufrizal Yordan",
+    "username": "zufrizalyordan",
+    "link": "https://medium.com/@zufrizalyordan"
   }
 ]

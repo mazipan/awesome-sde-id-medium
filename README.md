@@ -161,6 +161,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)
++ Zufrizal Yordan: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
 
 ----
 

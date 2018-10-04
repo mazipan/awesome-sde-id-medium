@@ -1,6 +1,6 @@
-﻿# awesome-sde-id-medium
+# awesome-sde-id-medium
 
-Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
+😎 Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## Navigasi Berdasar Abjad
 

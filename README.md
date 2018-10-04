@@ -11,11 +11,15 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## Cara Untuk Menambahkan Daftar Baru
 
+> 🚫 **TIDAK** semua akun Medium Software Engineer bisa ditambahkan ke daftar ini, pastikan kalian **HANYA** menambahkan orang-orang yang tulisannya menginspirasi dan bermanfat bagi kalian sehingga berharap orang lainpun akan turut membaca tulisannya. Saya akan berusaha me-*review* setiap akun yang ditambahkan (sebisa saya), namun bisa jadi banyak pendapat yang akan terasa subjektif dari saya, karena saya mohon maaf sebelumnya 🙏.
+
 + Fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini
-+ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan Abjad (*alphabet*) dari namanya
++ Pastikan daftar yang ditambahkan sudah diurutkan berdasarkan **Abjad (*alphabet*)** dari namanya
 + Formatnya agar diseragamkan dengan yang lain, yakni: `NAMA_ASLI/SAPAAN: [medium_username](link_medium)`
++ Satu Pull Request hanya untuk menambahkan satu nama baru, hal ini untuk memperketat proses review
 + RUN `npm run generate` atau `yarn run generate` sebelum melakukan commit perubahan terbaru untuk men-*generate* file json.
++ Jangan lupa untuk klik ⭐️ di repository ini.
 + Terima kasih untuk kontribusinya, dan semoga bermanfaat...
 
 ## A
@@ -25,8 +29,8 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Ade Yahya Prasetyo: [@adeyahya](https://medium.com/@adeyahya)
 + Adhy Wiranata: [@adhywiranata](https://medium.com/@adhywiranata)
 + Adi Nugroho: [@adinugroho](https://medium.com/@adinugroho)
-+ Afrimadoni Dinata [@afrimadonidinata](https://medium.com/@afrimadonidinata)
-+ Agastya Darma Laksana [@agastyadarma](https://medium.com/@agastyadarma)
++ Afrimadoni Dinata: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
++ Agastya Darma Laksana: [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
@@ -57,6 +61,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 
 ## F
++ Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 
 ## G
@@ -97,6 +102,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Naufal Rabbani: [@BosNaufal](https://medium.com/@BosNaufal)
 + Nur Rohman: [@nurrohman](https://medium.com/@nurrohman)
++ Nur Shalahuddin Fajri: [@shotozuro](https://medium.com/@shotozuro)
 
 ## O
 + Ofani Dariyan: [@ofanidariyan](https://medium.com/@ofanidariyan)
@@ -115,6 +121,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Rahmat Awaludin: [@rahmatawaludin](https://medium.com/@rahmatawaludin)
 + Reno Putra Prawira: [@renopp](https://medium.com/@renopp)
++ Rendy Febry: [@rendyfebry](https://medium.com/@rendyfebry)
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
@@ -130,6 +137,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
 + Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
++ Sucipto: [@showcheap](https://medium.com/@showcheap)
 
 ## T
 
@@ -151,10 +159,12 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 + Yohan Totting: [@tyohan](https://medium.com/@tyohan)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
++ Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)
++ Zufrizal Yordan: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
 
 ----
 

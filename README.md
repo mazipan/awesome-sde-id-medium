@@ -1,4 +1,4 @@
-# awesome-sde-id-medium
+﻿# awesome-sde-id-medium
 
 Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
@@ -109,9 +109,11 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 ## P
 
++ Pak Lebah : [@paklebah](https://medium.com/@pak.lebah)
 + Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
 + Prabu Rangki: [@praburangki](https://medium.com/@praburangki)
 + Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
+
 
 ## Q
 

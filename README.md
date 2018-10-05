@@ -127,6 +127,7 @@
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
++ Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)
 
 ## S
 

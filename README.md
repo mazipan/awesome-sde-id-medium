@@ -44,6 +44,7 @@
 + Arryangga Aliev Pratamaputra: [@arryanggaputra](https://medium.com/@arryanggaputra)
 
 ## B
++ Bayu Hendra : [@uyab](https://medium.com/@uyab)
 + Bobby Priambodo: [@bobbypriambodo](https://medium.com/@bobbypriambodo)
 
 ## C

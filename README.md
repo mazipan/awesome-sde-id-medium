@@ -52,6 +52,7 @@
 + Cesario Putera: [@rioriorio54](https://medium.com/@rioriorio54)
 
 ## D
+
 + Dian Aditya: [@dianw](https://medium.com/@dianw)
 + Didik Tri Susanto: [@didikz](https://medium.com/@didikz)
 
@@ -62,13 +63,16 @@
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 
 ## F
+
 + Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 
 ## G
+
 + Gita Citra Puspita: [@gitacitrapuspita](https://medium.com/@gitacitrapuspita)
 
 ## H
+
 + Hafid Mukhlasin: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)
 + Haidar Afif Maulana: [@haidarafifmaulana](https://medium.com/@haidarafifmaulana)
 
@@ -79,17 +83,18 @@
 
 ## J
 
-+ Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 + Jihad Dzikri Waspada: [@Dewey92](https://medium.com/@Dewey92)
-
++ Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 
 ## K
 
++ 
+
 ## L
 
++ Lukluk Luhuring Santoso: [@luklukluhuringsantoso](https://medium.com/@luklukluhuringsantoso)
 + Luri Darmawan: [@luridarmawan](https://medium.com/@luridarmawan)
 + Lutfi Dwica: [@dwicao](https://medium.com/@dwicao)
-+ Lukluk Luhuring Santoso: [@luklukluhuringsantoso](https://medium.com/@luklukluhuringsantoso)
 
 ## M
 
@@ -106,17 +111,20 @@
 + Nur Shalahuddin Fajri: [@shotozuro](https://medium.com/@shotozuro)
 
 ## O
+
 + Ofani Dariyan: [@ofanidariyan](https://medium.com/@ofanidariyan)
 
 ## P
 
 + Pak Lebah : [@paklebah](https://medium.com/@pak.lebah)
++ Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
 + Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
 + Prabu Rangki: [@praburangki](https://medium.com/@praburangki)
-+ Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
 
 
 ## Q
+
++ 
 
 ## R
 
@@ -125,20 +133,20 @@
 + Rendy Febry: [@rendyfebry](https://medium.com/@rendyfebry)
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
++ Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
-+ Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)
 
 ## S
 
++ Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
 + Sastra Panca Nababan: [@sastranababan](https://medium.com/@sastranababan)
 + Satya Kresna Adi Pratama: [@satyakresna](https://medium.com/@satyakresna)
-+ Sigit Hanafi: [@sigidhanafi](https://medium.com/@sigidhanafi)
 + Sidiq Permana: [@sidiqpermana10](https://medium.com/@sidiqpermana10)
++ Sigit Hanafi: [@sigidhanafi](https://medium.com/@sigidhanafi)
 + Sofian Hadiwijaya: [@sofianhw](https://medium.com/@sofianhw)
 + Sonny Lazuardi: [@sonnylazuardi](https://medium.com/@sonnylazuardi)
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
-+ Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
 + Sucipto: [@showcheap](https://medium.com/@showcheap)
 
 ## T
@@ -149,19 +157,25 @@
 
 ## U
 
++ 
+
 ## V
 
++ 
+
 ## W
+
 + Welly Tambunan: [@wellytambunan](https://medium.com/@wellytambunan)
 
 ## X
+
 + Wahyudi Wibowo: [@wahyudibo](https://medium.com/@wahyudibo)
 
 ## Y
 
++ Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 + Yohan Totting: [@tyohan](https://medium.com/@tyohan)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
-+ Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 
 ## Z
 

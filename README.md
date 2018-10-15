@@ -41,6 +41,7 @@
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 + Arif Akbarul Huda: [@omayib](https://medium.com/@omayib)
 + Arif Setiyawan: [@arifsetyawan](https://medium.com/@arifsetyawan)
++ Ariya Hidayat: [@ariyahidayat](https://medium.com/@ariyahidayat)
 + Arryangga Aliev Pratamaputra: [@arryanggaputra](https://medium.com/@arryanggaputra)
 
 ## B
@@ -70,6 +71,7 @@
 
 ## G
 
++ Giovanni Sakti: [@giosakti](https://medium.com/@giosakti)
 + Gita Citra Puspita: [@gitacitrapuspita](https://medium.com/@gitacitrapuspita)
 
 ## H

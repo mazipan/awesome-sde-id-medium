@@ -32,6 +32,7 @@
 + Afrimadoni Dinata: [@afrimadonidinata](https://medium.com/@afrimadonidinata)
 + Agastya Darma Laksana: [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
++ Ahmad Rosid: [@ocittwo](https://medium.com/@ocittwo)
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
 + Akbar Hidayat: [@keripix](https://medium.com/@keripix)

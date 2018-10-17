@@ -68,6 +68,7 @@
 + Faris M. Syariati: [@farissyariati](https://medium.com/@farissyariati)
 + Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
++ Faren: [@far3ns](https://medium.com/@far3ns)
 
 ## G
 

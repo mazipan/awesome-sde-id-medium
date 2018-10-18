@@ -89,6 +89,7 @@
 ## J
 
 + Jihad Dzikri Waspada: [@Dewey92](https://medium.com/@Dewey92)
++ Joshua Partogi: [@jpartogi](https://medium.com/@jpartogi)
 + Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 
 ## K

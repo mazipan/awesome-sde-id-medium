@@ -44,6 +44,7 @@
 + Arif Setiyawan: [@arifsetyawan](https://medium.com/@arifsetyawan)
 + Ariya Hidayat: [@ariyahidayat](https://medium.com/@ariyahidayat)
 + Arryangga Aliev Pratamaputra: [@arryanggaputra](https://medium.com/@arryanggaputra)
++ Asep Bagja Priandana: [@bepitulaz](https://medium.com/@bepitulaz)
 
 ## B
 + Bayu Hendra : [@uyab](https://medium.com/@uyab)

@@ -158,6 +158,7 @@
 
 ## T
 
++ Teofilus Candra: [@teofiluscandra](https://medium.com/@teofiluscandra)
 + Theresia Tanzil: [@theresiatanzil](https://medium.com/@theresiatanzil)
 + Tri Ahmad Irfan: [@irfan3](https://medium.com/@irfan3)
 + Trimikha Valentius: [@tvalentius](https://medium.com/@tvalentius)
@@ -172,6 +173,7 @@
 
 ## W
 
++ Wayan Jimmy: [@wayanjimmy](https://medium.com/@wayanjimmy)
 + Welly Tambunan: [@wellytambunan](https://medium.com/@wellytambunan)
 
 ## X

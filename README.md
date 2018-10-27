@@ -60,6 +60,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 
 ## F
++ Farah Oktarina : [@farahoktarina](https://medium.com/@farahoktarina)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 
 ## G

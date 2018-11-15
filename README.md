@@ -125,8 +125,9 @@
 
 + Pak Lebah : [@paklebah](https://medium.com/@pak.lebah)
 + Philip Lambok: [@philiplambok](https://medium.com/@philiplambok)
-+ Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
 + Prabu Rangki: [@praburangki](https://medium.com/@praburangki)
++ Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
++ Pramesti Hatta K.: [@opam22](https://medium.com/@opam22)
 
 
 ## Q

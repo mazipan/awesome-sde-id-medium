@@ -33,6 +33,7 @@
 + Agastya Darma Laksana: [@agastyadarma](https://medium.com/@agastyadarma)
 + Ahmad Arif: [@ahmadarif](https://medium.com/@ahmadarif)
 + Ahmad Rosid: [@ocittwo](https://medium.com/@ocittwo)
++ Ahmad Rizqi Meydiarso: [@rizqme](https://medium.com/@rizqme)
 + Aisy Muhammad Rozsidhy: [@aisymuhammadrozsidhy](https://medium.com/@aisymuhammadrozsidhy)
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
 + Akbar Hidayat: [@keripix](https://medium.com/@keripix)
@@ -40,6 +41,7 @@
 + Alif Rizky: [@alfrizp](https://medium.com/@alfrizp)
 + Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
++ Andi Nugroho Dirgantara: [@hellowin](https://medium.com/@hellowin)
 + Arif Akbarul Huda: [@omayib](https://medium.com/@omayib)
 + Arif Setiyawan: [@arifsetyawan](https://medium.com/@arifsetyawan)
 + Ariya Hidayat: [@ariyahidayat](https://medium.com/@ariyahidayat)
@@ -59,12 +61,14 @@
 
 + Dian Aditya: [@dianw](https://medium.com/@dianw)
 + Didik Tri Susanto: [@didikz](https://medium.com/@didikz)
++ Didik Wicaksono: [@did1k](https://medium.com/@did1k)
 
 ## E
 
 + Eka Prasasti: [@ekaprasasti](https://medium.com/@ekaprasasti)
 + Eko Kurniawan Khannedy: [@khannedy](https://medium.com/@khannedy)
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
++ Evan Purnama: [@evanpurnama_49601](https://medium.com/@evanpurnama_49601)
 
 ## F
 
@@ -72,6 +76,7 @@
 + Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 + Faren: [@far3ns](https://medium.com/@far3ns)
++ Ferdinand Neman: [@ferdinand.neman](https://medium.com/@ferdinand.neman)
 
 ## G
 
@@ -140,6 +145,7 @@
 + Rahmat Awaludin: [@rahmatawaludin](https://medium.com/@rahmatawaludin)
 + Reno Putra Prawira: [@renopp](https://medium.com/@renopp)
 + Rendy Febry: [@rendyfebry](https://medium.com/@rendyfebry)
++ Resi Respati: [@resir014](https://medium.com/@resir014)
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)

@@ -91,7 +91,7 @@
 ## I
 
 + Iman Tumorang: [@imantumorang](https://medium.com/@imantumorang)
-+ Irfan Maulana: [@mazipanneh](https://medium.com/@mazipanneh)
++ Irfan Maulana: [@mazipan](https://medium.com/@mazipan)
 
 ## J
 

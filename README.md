@@ -73,7 +73,7 @@
 ## F
 
 + Faris M. Syariati: [@farissyariati](https://medium.com/@farissyariati)
-+ Fariz Rizaldy: [@filosofikode](https://medium.com/@filosofikode)
++ Fariz Rizaldy: [@108kb](https://medium.com/@108kb)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 + Faren: [@far3ns](https://medium.com/@far3ns)
 + Ferdinand Neman: [@ferdinand.neman](https://medium.com/@ferdinand.neman)

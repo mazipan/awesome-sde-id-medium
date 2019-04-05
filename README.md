@@ -11,7 +11,7 @@
 
 ## Cara Untuk Menambahkan Daftar Baru
 
-> 🚫 **TIDAK** semua akun Medium Software Engineer bisa ditambahkan ke daftar ini, pastikan kalian **HANYA** menambahkan orang-orang yang tulisannya menginspirasi dan bermanfat bagi kalian sehingga berharap orang lainpun akan turut membaca tulisannya. Saya akan berusaha me-*review* setiap akun yang ditambahkan (sebisa saya), namun bisa jadi banyak pendapat yang akan terasa subjektif dari saya, karena saya mohon maaf sebelumnya 🙏.
+> 🚫 **TIDAK** semua akun Medium Software Engineer bisa ditambahkan ke daftar ini, pastikan kalian **HANYA** menambahkan orang-orang yang tulisannya menginspirasi dan bermanfat bagi kalian sehingga berharap orang lainpun akan turut membaca tulisannya. Saya akan berusaha me-*review* setiap akun yang ditambahkan (sebisa saya), namun bisa jadi banyak pendapat yang akan terasa subjektif dari saya, karena itu saya mohon maaf sebelumnya 🙏.
 
 + Fork repo ini, dan buat branch baru (jangan pake branch `master` ya...)
 + PR ke branch master dari repo ini

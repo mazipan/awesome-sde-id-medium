@@ -183,10 +183,9 @@
 
 + Wayan Jimmy: [@wayanjimmy](https://medium.com/@wayanjimmy)
 + Welly Tambunan: [@wellytambunan](https://medium.com/@wellytambunan)
++ Wahyudi Wibowo: [@wahyudibo](https://medium.com/@wahyudibo)
 
 ## X
-
-+ Wahyudi Wibowo: [@wahyudibo](https://medium.com/@wahyudibo)
 
 ## Y
 

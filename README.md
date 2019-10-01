@@ -33,6 +33,7 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 + Aji Pratama: [@ajipratama](https://medium.com/@ajipratama)
 + Akbar Hidayat: [@keripix](https://medium.com/@keripix)
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
++ Alif Irfan Anshory: [@alfari](https://medium.com/@alfari)
 + Alif Rizky: [@alfrizp](https://medium.com/@alfrizp)
 + Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
@@ -160,3 +161,4 @@ Daftar akun Medium.com keren dari para pegiat software engineering di Indonesia
 
 
 Copyright © 2018
+

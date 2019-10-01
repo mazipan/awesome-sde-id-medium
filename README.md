@@ -101,7 +101,7 @@
 
 ## K
 
-+
++ Kiddy: [@kiddy.xyz](https://medium.com/@kiddy.xyz)
 
 ## L
 

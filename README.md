@@ -40,6 +40,7 @@
 + Alex Xandra Albert Sim: [@alex.sim](https://medium.com/@alex.sim)
 + Alif Rizky: [@alfrizp](https://medium.com/@alfrizp)
 + Alfred Crosby: [@alfrcr](https://medium.com/@alfrcr)
++ Alim Abdul Jabbar: [@liimalim](https://medium.com/@liimalim)
 + Antony Budianto: [@antonybudianto](https://medium.com/@antonybudianto)
 + Andi Nugroho Dirgantara: [@hellowin](https://medium.com/@hellowin)
 + Arif Akbarul Huda: [@omayib](https://medium.com/@omayib)

@@ -139,7 +139,7 @@
 
 ## Q
 
-+
++ Qomariah Kumala Dewi : [@qomariah_kd](https://medium.com/@qomariahkumaladewi9329)
 
 ## R
 

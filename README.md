@@ -150,6 +150,7 @@
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)
++ Rizqinofa Putra M: [@rizqipm](https://medium.com/@rizqipm)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
 

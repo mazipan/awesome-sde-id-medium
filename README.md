@@ -156,6 +156,9 @@
 
 ## S
 
++ Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
++ Sastra Panca Nababan: [@sastranababan](https://medium.com/@sastranababan)
++ Satya Kresna Adi Pratama: [@satyakresna](https://medium.com/@satyakresna)
 + Sidiq Permana: [@sidiqpermana10](https://medium.com/@sidiqpermana10)
 + Sigit Hanafi: [@sigidhanafi](https://medium.com/@sigidhanafi)
 + Sofian Hadiwijaya: [@sofianhw](https://medium.com/@sofianhw)

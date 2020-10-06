@@ -156,10 +156,6 @@
 
 ## S
 
-+ Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
-+ Sastra Panca Nababan: [@sastranababan](https://medium.com/@sastranababan)
-+ Satya Kresna Adi Pratama: [@satyakresna](https://medium.com/@satyakresna)
-+ Sebastian Eschweiler: [@s_eschweiler](https://medium.com/@s_eschweiler)
 + Sidiq Permana: [@sidiqpermana10](https://medium.com/@sidiqpermana10)
 + Sigit Hanafi: [@sigidhanafi](https://medium.com/@sigidhanafi)
 + Sofian Hadiwijaya: [@sofianhw](https://medium.com/@sofianhw)
@@ -194,7 +190,7 @@
 
 + Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
-
++ Yessika Budiono: [@yessika21289](https://medium.com/@yessika21289PW)
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)

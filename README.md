@@ -113,7 +113,6 @@
 ## M
 
 + M Nafian Wildana: [@mnafian](https://medium.com/@mnafian)
-+ Mohammad Azam [@azamsharp](https://medium.com/@azamsharp)
 + Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
 + Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 + Muhammad Ridho K Pratama: [@99ridho](https://medium.com/@99ridho)
@@ -154,6 +153,7 @@
 + Rizqinofa Putra M: [@rizqipm](https://medium.com/@rizqipm)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
++ R Surahutomo Aziz Pradana: [@retzd.dev](https://medium.com/@retzd.dev)
 
 ## S
 

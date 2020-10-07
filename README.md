@@ -150,8 +150,10 @@
 + Rian Yulianto W: [@kucingmeongs](https://medium.com/@kucingmeongs)
 + Riza Fahmi: [@rizafahmi22](https://medium.com/@rizafahmi22)
 + Rizal Hilman: [@rizal_hilman](https://medium.com/@rizal_hilman)
++ Rizqinofa Putra M: [@rizqipm](https://medium.com/@rizqipm)
 + R AdySurya A: [@ri7nz](https://medium.com/@ri7nz)
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
++ R Surahutomo Aziz Pradana: [@retzd.dev](https://medium.com/@retzd.dev)
 
 ## S
 
@@ -192,7 +194,6 @@
 
 + Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
-
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)

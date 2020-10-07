@@ -113,6 +113,7 @@
 ## M
 
 + M Nafian Wildana: [@mnafian](https://medium.com/@mnafian)
++ Mohammad Azam [@azamsharp](https://medium.com/@azamsharp)
 + Muhibbudin Suretno: [@muhibbudins](https://medium.com/@muhibbudins)
 + Muhammad Farid Zia: [@MFaridZia](https://medium.com/@MFaridZia)
 + Muhammad Ridho K Pratama: [@99ridho](https://medium.com/@99ridho)
@@ -193,7 +194,6 @@
 
 + Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
-+ Yessika Budiono: [@yessika21289](https://medium.com/@yessika21289PW)
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)

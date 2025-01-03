@@ -53,19 +53,27 @@
 + Asep Bagja Priandana: [@bepitulaz](https://medium.com/@bepitulaz)
 + Ash-Shiddiqul Akbar Hidayat: [@keripix](https://medium.com/@keripix)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## B
 + Bayu Hendra : [@uyab](https://medium.com/@uyab)
 + Bobby Priambodo: [@bobbypriambodo](https://medium.com/@bobbypriambodo)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## C
 
 + Cesario Putera: [@rioriorio54](https://medium.com/@rioriorio54)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## D
 
 + Dian Aditya: [@dianw](https://medium.com/@dianw)
 + Didik Tri Susanto: [@didikz](https://medium.com/@didikz)
 + Didik Wicaksono: [@did1k](https://medium.com/@did1k)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## E
 
@@ -74,28 +82,39 @@
 + Eminarti Sianturi: [@eminartiys](https://medium.com/@eminartiys)
 + Evan Purnama: [@evanpurnama_49601](https://medium.com/@evanpurnama_49601)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## F
 
++ Farah Oktarina : [@farahoktarina](https://medium.com/@farahoktarina)
 + Faris M. Syariati: [@farissyariati](https://medium.com/@farissyariati)
 + Fariz Rizaldy: [@108kb](https://medium.com/@108kb)
 + Fathur Rohim: [@oimtrust](https://medium.com/@oimtrust)
 + Faren: [@far3ns](https://medium.com/@far3ns)
 + Ferdinand Neman: [@ferdinand.neman](https://medium.com/@ferdinand.neman)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## G
 
 + Giovanni Sakti: [@giosakti](https://medium.com/@giosakti)
 + Gita Citra Puspita: [@gitacitrapuspita](https://medium.com/@gitacitrapuspita)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## H
 
 + Hafid Mukhlasin: [@hafidmukhlasin](https://medium.com/@hafidmukhlasin)
 + Haidar Afif Maulana: [@haidarafifmaulana](https://medium.com/@haidarafifmaulana)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## I
 
 + Iman Tumorang: [@imantumorang](https://medium.com/@imantumorang)
 + Irfan Maulana: [@mazipan](https://medium.com/@mazipan)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## J
 
@@ -103,15 +122,21 @@
 + Joshua Partogi: [@jpartogi](https://medium.com/@jpartogi)
 + Jundi Alwan: [@jundialwan](https://medium.com/@jundialwan)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## K
 
 + Kiddy: [@kiddy.xyz](https://medium.com/@kiddy.xyz)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## L
 
 + Lukluk Luhuring Santoso: [@luklukluhuringsantoso](https://medium.com/@luklukluhuringsantoso)
 + Luri Darmawan: [@luridarmawan](https://medium.com/@luridarmawan)
 + Lutfi Dwica: [@dwicao](https://medium.com/@dwicao)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## M
 
@@ -121,15 +146,21 @@
 + Muhammad Ridho K Pratama: [@99ridho](https://medium.com/@99ridho)
 + Musliadi: [@musliadi](https://medium.com/@musliadi)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## N
 
 + Naufal Rabbani: [@BosNaufal](https://medium.com/@BosNaufal)
 + Nur Rohman: [@nurrohman](https://medium.com/@nurrohman)
 + Nur Shalahuddin Fajri: [@shotozuro](https://medium.com/@shotozuro)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## O
 
 + Ofani Dariyan: [@ofanidariyan](https://medium.com/@ofanidariyan)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## P
 
@@ -139,10 +170,13 @@
 + Pradita Utama: [@pradita.utama](https://medium.com/@pradita.utama)
 + Pramesti Hatta K.: [@opam22](https://medium.com/@opam22)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## Q
 
-+
++ Qomariah Kumala Dewi : [@qomariah_kd](https://medium.com/@qomariahkumaladewi9329)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## R
 
@@ -158,6 +192,8 @@
 + R. Kukuh: [@rkukuh](https://medium.com/@rkukuh)
 + R Surahutomo Aziz Pradana: [@retzd.dev](https://medium.com/@retzd.dev)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## S
 
 + Safei Muslim: [@safeimuslim](https://medium.com/@safeimuslim)
@@ -170,6 +206,8 @@
 + Sulistiyanto: [@sulistiyanto](https://medium.com/@sulistiyanto)
 + Sucipto: [@showcheap](https://medium.com/@showcheap)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## T
 
 + Teofilus Candra: [@teofiluscandra](https://medium.com/@teofiluscandra)
@@ -181,9 +219,13 @@
 
 +
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## V
 
 +
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## W
 
@@ -191,18 +233,27 @@
 + Welly Tambunan: [@wellytambunan](https://medium.com/@wellytambunan)
 + Wahyudi Wibowo: [@wahyudibo](https://medium.com/@wahyudibo)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## X
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
 
 ## Y
 
 + Yahya Fadhlulloh Al-Fatih: [@yahya.kimochi](https://medium.com/@yahya.kimochi)
 + Yudi Setiawan: [@kolonel.yudisetiawan](https://medium.com/@kolonel.yudisetiawan)
+
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ## Z
 
 + Zain Fathoni: [@zain.fathoni](https://medium.com/@zain.fathoni)
 + Zufrizal Yordan: [@zufrizalyordan](https://medium.com/@zufrizalyordan)
 
+[🔼 Back to top](#navigasi-berdasar-abjad)
+
 ----
 
 
-Copyright © 2019
+Copyright © since 2019
